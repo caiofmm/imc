@@ -1,4 +1,4 @@
 
-# Resumos aulas curso de JavaScript
+# JavaScript
 
 
